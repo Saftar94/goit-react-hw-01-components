@@ -1,0 +1,26 @@
+[
+  {
+    "id": "id-1",
+    "label": ".docx",
+    "percentage": 32,
+    "background": "rgb(24 209 233)"
+  },
+  {
+    "id": "id-2",
+    "label": ".pdf",
+    "percentage": 4,
+    "background": "rgb(158 40 179)"
+  },
+  {
+    "id": "id-3",
+    "label": ".mp3",
+    "percentage": 17,
+    "background": "rgb(237 55 42)"
+  },
+  {
+    "id": "id-3",
+    "label": ".mp3",
+    "percentage": 47,
+    "background": "rgb(39 124 116)"
+  }
+]

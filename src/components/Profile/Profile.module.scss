@@ -1,0 +1,46 @@
+.Profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  background: rgba(95, 91, 91, 0.795);
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+  background-color: grey;
+  border: 2px solid rgb(61, 184, 13);
+  border-radius: 50%;
+  margin: 40px 0;
+}
+.Name,
+.Tag {
+  margin-bottom: 10px;
+}
+.Stats {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(128, 128, 128, 0.2);
+}
+.Item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 10px;
+  width: 100%;
+  border-top: solid 3px rgba(99, 94, 94, 0.1);
+}
+.Item + .Item {
+  border-left: solid 3px rgba(99, 94, 94, 0.1);
+}
+
+.Label {
+  margin-bottom: 5px;
+}
+.Quantity {
+  font-weight: 700;
+}
